@@ -1,0 +1,909 @@
+[{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9003"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Journeyman Shirt Jacket, Flannel Lined Shacket for Men, Water-Resistant Coat Rugged Fall Clothing",
+  "discount": 20,
+  "numReviews": 571,
+  "rating": 4.6,
+  "isFeature": false,
+  "brand": "Legendary",
+  "price": 89.99,
+  "description": "[Fit & Sizing]: For the signature Legendary Whitetails fit, see our size chart which accomodiates Standard and Big & Tall sizes; the Journeyman shirt jacket is designed for extra layering [Material & Durability]: Experience the Legendary Whitetails men's jacket quality with a blend of Cotton and Polyester; its rugged waxed cotton suede appearance, softer to the touch, promises durability and is weather-resistant[Warmth & Comfort]: Top quality flannel-lined for ultimate warmth, the Legendary Whitetails Journeyman is your shield against cold, transitional jacket for every season.",
+  "department": "Men",
+  "category": "Flannel",
+  "topDeal": true,
+  "bestSeller": false,
+  "countInStock": 17,
+  "image": [
+    "https://m.media-amazon.com/images/I/912xgelNpdL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/81Aclfhd0SL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/71QEpF7EGEL._AC_SX569_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0001"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9004"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Rugged Full Zip Dakota Jacket",
+  "discount": 15,
+  "numReviews": 320,
+  "rating": 4.1,
+  "isFeature": false,
+  "brand": "Legendary",
+  "price": 115.19,
+  "description": "Cotton suede shell.Full front zipper, snap cuffs.Removable Hood. 5 Pockets: 2 Front, 1 Zippered Chest, 2 Inside.Signature Buck logo on hood",
+  "department": "Men",
+  "category": "Jacket",
+  "topDeal": true,
+  "bestSeller": false,
+  "countInStock": 9,
+  "image": [
+    "https://m.media-amazon.com/images/I/81RXgfs+IjL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/81Qw2+j-msL._AC_SX425_.jpg",
+    "https://m.media-amazon.com/images/I/815G1YfBKoL._AC_SX569_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0002"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9005"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Archer Flannel Thermal Lined Shirt Jacket, Quilted Insulated Plaid Work Outerwear Coat",
+  "discount": 0,
+  "numReviews": 221,
+  "rating": 3.6,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 69.99,
+  "description": "60% Cotton, 40% Polyester, Imported, [Fit & Quality]: True to size; for the signature Legendary Whitetails men's fit, refer to our size chart; this flannel shirt jacket is crafted with high-quality construction and detail, ensuring durability and a timeless look [Material & Warmth]: High quality construction and detail make this insulated flannel a standout Legendary shirt jac; coat features a 100% top quality cotton/poly blend thermal lining in the body, and smooth lined quilted sleeves; full poly-fill insulation and convenient side-seam pockets ensures you stay warm from cuff to cuff, making it a top choice among flannel shirt jackets for men [Color Fading]: Made of yarn-dyed 100% cotton plaid, this shirt jacket offers a crisper, sharper look; it's also a quick way to tell you're getting a high quality shirt; trust in our fade-resistant fabric to keep your men's flannel long sleeve shirt looking as vibrant as day one, wash after wash; the yarn-dyed plaid pattern showcases a high-quality design, setting you apart",
+  "department": "Men",
+  "category": "Flannel",
+  "topDeal": true,
+  "bestSeller": false,
+  "countInStock": 17,
+  "image": [
+    "https://m.media-amazon.com/images/I/81AGBVroP3L._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/81jqHPnZ7ZL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/815u5RNqPQL._AC_SX679_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0003"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9006"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Maplewood Hooded Shirt Jacket",
+  "discount": 25,
+  "numReviews": 1220,
+  "rating": 4,
+  "isFeature": false,
+  "brand": "Legendary",
+  "price": 96.42,
+  "description": "Quilted satin lined body and sleeves,130 gm of poly-fill insulation, Zippered entry placket and double lined fleece hood, Convenient side hand warming pockets, Legendary buttons and Signature Buck logo embroidery ",
+  "department": "Men",
+  "category": "Jacket",
+  "topDeal": true,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/81JprHUYo6L._AC_SY550_.jpg",
+    "https://m.media-amazon.com/images/I/81JtZD62pdL._AC_SY550_.jpg",
+    "https://m.media-amazon.com/images/I/716jU-YNbfL._AC_SX569_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0004"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9007"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Tough as Buck Outdoorsman Wool Coat, Winter Outerwear Jacket, Insulated Work Clothing",
+  "discount": 0,
+  "numReviews": 105,
+  "rating": 3.8,
+  "isFeature": false,
+  "brand": "Legendary",
+  "price": 99.99,
+  "description": "[Fit & Legendary Whitetails Quality]: True to size; for the signature Legendary Whitetails men's Regular fit, refer to our size chart; this wool coat, a standout among men's wool coats, promises durability, warmth, and a timeless look[Material & Sustainability]: Crafted with recycled wool, this men's coat is very warm; the blend of acrylic, polyester, nylon, and viscose ensures durability, making it a top choice for those searching for warm men's wool coats and jackets[Comfort & Warmth]: Warm Sherpa fleece is popular for a reason; soft to the touch and great at trapping body heat, it ensures core warmth while kicking your comfort level up a notch; the quilted",
+  "department": "Men",
+  "category": "Jacket",
+  "topDeal": false,
+  "bestSeller": false,
+  "countInStock": 20,
+  "image": [
+    "https://m.media-amazon.com/images/I/917ZdNtUv+L._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/91185RUtaLL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/916tY+nzSZL._AC_SX569_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0005"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9008"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Stockyards Bozeman Canvas Western Coat",
+  "discount": 0,
+  "numReviews": 2055,
+  "rating": 4.3,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 119.99,
+  "description": "Durable water-repellent finish. Removable 3-panel hood. Diamond stitch quilted flannel lining. Adjustable cuffs and polyester lined sleeves.Bottom band snap closure",
+  "department": "Men",
+  "category": "Flannel",
+  "topDeal": false,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/81mPxzB1xVL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/81Nx-3Ci-lL._AC_SX679_.jpg",
+    "https://m.media-amazon.com/images/I/91cgHlZJLEL._AC_SX522_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0006"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9009"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Glacier Ridge Pro Series Winter Coat",
+  "discount": 0,
+  "numReviews": 1120,
+  "rating": 4.8,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 149.99,
+  "description": "Provides exceptional warmth without the bulk.Perfect for any extreme cold weather activities. Water resistant, features a built in membrane to ensure you keep the water out.Zippered under arm vents and removable hood allow you to change your garment as the weather changes.Complete with reflective piping, adjustable cuffs, and 6 pockets",
+  "department": "Men",
+  "category": "Jacket",
+  "topDeal": false,
+  "bestSeller": true,
+  "countInStock": 15,
+  "image": [
+    "https://m.media-amazon.com/images/I/81vsGouHylL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/810H+yS8kyL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/919VKPi6SKL._AC_SX522_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0007"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d900a"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Big Game Camo Snow Outfitter Hoodie",
+  "discount": 10,
+  "numReviews": 20,
+  "rating": 3,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 39.21,
+  "description": "Authentic cut-through Signature Buck applique. Cotton/spandex blend cuffs. Hand warmer style front pocket.  Matching braided cotton drawstring. Legendary embroidered on the edge of the hood",
+  "department": "Men",
+  "category": "Hoodie",
+  "topDeal": true,
+  "bestSeller": false,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/81CLl+ljl+L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71otKt2gwWL._AC_SX569_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0008"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d900b"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Maverick Slub Henley Short Sleeve Shirt",
+  "discount": 10,
+  "numReviews": 20,
+  "rating": 4,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 31.99,
+  "description": "Henley neckline with 4 button placket pull on closure. Contrast stitching along the sleeves and hemline. Tagless neck label for comfort.Legendary embroidered on back yoke. Legendary Signature Buck logo patch on hemline",
+  "department": "Men",
+  "category": "Shirt",
+  "topDeal": false,
+  "bestSeller": false,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/71W+TZX4Q9L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71Mi1GLZ3FL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61QwELB8CoL._AC_SX569_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0009"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d900c"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Maverick Slub Henley Shirt",
+  "discount": 0,
+  "numReviews": 350,
+  "rating": 4.7,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 39.99,
+  "description": "Extremely soft comfortable fabric. Four button placket pullover shirt. Contrast stitching.Legendary branded back yoke.Legendary Signature Buck tag on hem",
+  "department": "Men",
+  "category": "Shirt",
+  "topDeal": false,
+  "bestSeller": false,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/71y0lAA36-L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71hsjtM5HKL._AC_SX425_.jpg",
+    "https://m.media-amazon.com/images/I/91Glb4LW66L._AC_SX466_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0010"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d900d"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Recluse Henley",
+  "discount": 15,
+  "numReviews": 350,
+  "rating": 4.8,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 39.99,
+  "description": "Distressed seams for a rugged look.Easy-moving raglan long sleeves. Soft, sueded finish. 4-button placket for easy on/off. Legendary label at hem",
+  "department": "Men",
+  "category": "Shirt",
+  "topDeal": false,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/91VCk+J8s8L._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/91b68QiQUCL._AC_SX522_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0011"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d900e"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Harbor Heavyweight Flannel Shirt",
+  "discount": 25,
+  "numReviews": 250,
+  "rating": 3,
+  "isFeature": false,
+  "brand": "Legendary",
+  "price": 49.99,
+  "description": "Durable Quality - heavyweight flannel built for many seasons to come.Reinforced - lightly waxed cotton trim on pocket flap and elbows.Adjustablity - adjustable cuffs make it easy to roll up your sleeve or tighten them to fit you perfectly.Comfortable - nothing beats the long-lasting comfort of all-natural cotton.Features - pencil pocket slot, 2 chest pockets, and locker loop",
+  "department": "Men",
+  "category": "Flannel",
+  "topDeal": false,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/81IuNWxIE2L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81jkhtrNVkL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/712Mt1HkGTL._AC_SX569_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0012"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d900f"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Nautica Men's Navtech Colorblock Tee",
+  "discount": 20,
+  "numReviews": 250,
+  "rating": 3,
+  "isFeature": false,
+  "brand": "Nautica",
+  "price": 24.99,
+  "description": "Crew neck; ribbed collar; slip-on style.  Short sleeves. One-fit. J-class logo at hem; Nautica logo at chest. Colorblock Navtech t-shirt",
+  "department": "Men",
+  "category": "Shirt",
+  "topDeal": false,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/71e0w6RNEjL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/71cdvQYCxhL._AC_SX466_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0013"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9010"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Nautica Men's Short Sleeve Color Block Performance Pique Polo Shirt",
+  "discount": 30,
+  "numReviews": 1250,
+  "rating": 4.5,
+  "isFeature": false,
+  "brand": "Nautica",
+  "price": 34.99,
+  "description": "Vented hem for a little extra mobility; moisture-wicking fabric keeps you dry and comfortable. Performance polo with classic fit and moisture-wicking fabrication",
+  "department": "Men",
+  "category": "Shirt",
+  "topDeal": true,
+  "bestSeller": false,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/81z6nBT9X2L._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/71DnhkEQZlL._AC_SY550_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0014"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9011"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Nautica Men's Classic Fit 100% Cotton Soft Short Sleeve Stripe Polo Shirt",
+  "discount": 0,
+  "numReviews": 150,
+  "rating": 3.8,
+  "isFeature": false,
+  "brand": "Nautica",
+  "price": 36.59,
+  "description": "A vented hem gives you a little extra room to move.Classic fit polo shirt with a striped design and sporty styling",
+  "department": "Men",
+  "category": "Shirt",
+  "topDeal": false,
+  "bestSeller": false,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/91FiVDNJvmL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91jpuhEPjQL._AC_SY550_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0015"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9012"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Nautica Men's Classic Fit Short Sleeve Dual Tipped Collar Polo Shirt",
+  "discount": 0,
+  "numReviews": 33,
+  "rating": 3.8,
+  "isFeature": false,
+  "brand": "Nautica",
+  "price": 26.5,
+  "description": "Solid stand collar polo with ribbing and classic fit.Stand collar, 3-button placket closure",
+  "department": "Men",
+  "category": "Shirt",
+  "topDeal": false,
+  "bestSeller": false,
+  "countInStock": 17,
+  "image": [
+    "https://m.media-amazon.com/images/I/81NoIwsvrAL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/81ZphX+AtAL._AC_SY550_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0016"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9013"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Women's Lumber Jane Hooded Flannel Shirt",
+  "discount": 0,
+  "numReviews": 350,
+  "rating": 4.8,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 39.99,
+  "description": "PLENTY OF STORAGE: There are two chest pockets on this women's hooded flannel, making it easy to bring all your favorite things with you.",
+  "department": "Women",
+  "category": "Flannel",
+  "topDeal": false,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/914QgjPfS0L._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/91HxwGZpBQL._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/91yYnOrEN6L._AC_SX466_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0017"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9014"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Women's Stockyards Plaid Flannel Shirt",
+  "discount": 0,
+  "numReviews": 350,
+  "rating": 4.8,
+  "isFeature": false,
+  "brand": "Legendary",
+  "price": 39.99,
+  "description": "Roll tab sleeve and hem for adjustable comfort and coverage Long shirttail for extra back coverage Deep Western yoke in front, subtle yoke in back 2 Chest pockets with pearlized button closure",
+  "department": "Women",
+  "category": "Flannel",
+  "topDeal": false,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/91Rm29dl2ML._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/91lALr9d85L._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/81Ar0+Gk5UL._AC_SX466_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0018"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9015"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Women's Treasure Shirt Jacket",
+  "discount": 5,
+  "numReviews": 350,
+  "rating": 4.8,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 69.99,
+  "description": "Rugged yet soft brushed 100% cotton flannel.Adjustable cuffs with button closure. Twin chest pockets with button flap. Side welt pockets for hand warming.Pleated back for a relaxed fit",
+  "department": "Women",
+  "category": "Flannel",
+  "topDeal": true,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/81jTz88BlQL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/81cdFOm-KzL._AC_SX522_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0019"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9016"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Women's Treasure Shirt Jacket",
+  "discount": 30,
+  "numReviews": 350,
+  "rating": 4.8,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 48.99,
+  "description": "Rugged yet soft brushed 100% cotton flannel.Adjustable cuffs with button closure. Twin chest pockets with button flap. Side welt pockets for hand warming.Pleated back for a relaxed fit",
+  "department": "Women",
+  "category": "Flannel",
+  "topDeal": true,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/9129ESP-ziL._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/91JmvmtcQ6L._AC_SX466_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0020"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9017"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Women's Legendary Flannel Shirt Comfort Fit",
+  "discount": 57,
+  "numReviews": 350,
+  "rating": 4.8,
+  "isFeature": false,
+  "brand": "Legendary",
+  "price": 39.99,
+  "description": "BUTTERY SOFTNESS - Flannels for women have never been so comfortable. We give you the perfect look with the comfort and softness you've been searching for with this rayon/polyester blend. DURABLE QUALITY - We included soft suede like lining in the collar and cuffs in this women's flannel shirt to reinforce wearable areas, making it durable and long lasting for many seasons to come.",
+  "department": "Women",
+  "category": "Flannel",
+  "topDeal": false,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/814zvUR8NEL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/81ao0uUGvvL._AC_SX679_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0021"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9018"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Women's Anchorage Parka",
+  "discount": 0,
+  "numReviews": 350,
+  "rating": 4.8,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 129.99,
+  "description": "WATERPROOF: This women's coat has a waterproof shell on it to ensure you stay dry, even when it's raining cats and dogs. ADDED WARMTH: We included 130 grams of polyfill insulation and sherpa lining to give you the added warmth you need. MOVE FREELY: Spandex was added into the cuffs of this women's coat for ease of movement. PLENTY OF STORAGE: There are four pockets on this women's coat, making it easy to bring all your favorite things with you. STYLISH: Features removable zip-off faux fur lined hood and sherpa lining.",
+  "department": "Women",
+  "category": "Jacket",
+  "topDeal": true,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/91Ez5m5R+SL._AC_SY550_.jpg",
+    "https://m.media-amazon.com/images/I/81VYQEtlvIL._AC_SY550_.jpg",
+    "https://m.media-amazon.com/images/I/81zhzMzLSML._AC_SX569_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "colors": [
+    {
+      "name": "Dark Coal Heather",
+      "color": "#4c4c4c"
+    },
+    {
+      "name": "Rusty Maroon",
+      "color": "#800000"
+    },
+    {
+      "name": "Army",
+      "color": "#6B8E23"
+    }
+  ],
+  "slug": "0022"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d9019"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Women's Quilted Toggle Puffer Jacket",
+  "discount": 0,
+  "numReviews": 350,
+  "rating": 4.8,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 69.99,
+  "description": "WARMTH: Removable flannel lined hood for added warmth to adjust as the weather changes.LEGENDARY STYLING: Flannel lined collar and pocket opening with a suede lined three toggle opening.POCKETS: One chest and two front side pockets for easy access and storage.FLATTERING FIT: Feminine shape for a flattering fit. FEATURES: Contrasting trim, locker loop, and zippered front with storm flap",
+  "department": "Women",
+  "category": "Jacket",
+  "topDeal": false,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/81dKsBl2QAL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/71xn9WbeboL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/71bYA5KhNTL._AC_SX522_.jpg"
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "color": "#000000"
+    },
+    {
+      "name": "Barn",
+      "color": "#7C0A02"
+    },
+    {
+      "name": "Blue Shapphire",
+      "color": "#6B8E23"
+    }
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0023"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d901a"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Women's Fuzzy Hide Fleece Pullover 1/4 Zip",
+  "discount": 0,
+  "numReviews": 350,
+  "rating": 4.8,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 49.99,
+  "description": "Quarter-zip pullover. Super-soft and fuzzy.Cozy standup collar. Side panels for a more streamlined fit. Convenient kangaroo hand warming pocket",
+  "department": "Women",
+  "category": "Pullover",
+  "topDeal": false,
+  "bestSeller": true,
+  "countInStock": 11,
+  "image": [
+    "https://m.media-amazon.com/images/I/81uh8z1IRwL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/81d9PRPq6DL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/81+puUwSTDL._AC_SX569_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0024"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d901b"
+  },
+  "shipping": 5.99,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Men's Legendary Flannel Shirt",
+  "discount": 0,
+  "numReviews": 571,
+  "rating": 4.6,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 39.99,
+  "description": "RELAXED STRETCH FIT: The Legendary Stretch Flannel Shirt is designed with the same relaxed fit as our other shirts. In addition, it has a raised back yoke, and premium stretch fabric to give you full range of motion… even at full draw. SNUGGLY SOFT: This flannel shirt features premium brushed cotton fabric with a touch of Spandex to give you ultimate comfort and flexibility. Furthermore, with the super soft suede knit lining at the collar and cuffs, you're sure to receive extra cuddles",
+  "department": "Men",
+  "category": "Flannel",
+  "topDeal": false,
+  "bestSeller": false,
+  "countInStock": 17,
+  "image": [
+    "https://m.media-amazon.com/images/I/A1y401v2MlL._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/A1q0lmnyQML._AC_SX522_.jpg",
+    "https://m.media-amazon.com/images/I/71n4JydmOeS._AC_SX569_.jpg"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0025"
+},{
+  "_id": {
+    "$oid": "663f9d32682520dcc61d901c"
+  },
+  "shipping": 0,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Legendary Whitetails Women's Power 1/4 Zip Fleece Hoodie",
+  "discount": 0,
+  "numReviews": 571,
+  "rating": 4.6,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 49.99,
+  "description": "Stand out in a crowd with our exclusive Big Game Field Camo pattern and Legendary branding.Quarter zip neckline for easy on-off.Polyester/Spandex fabric wicks moisture and retains warmth.Convenient kangaroo pocket.Fully-lined 3-piece hood fit for comfort",
+  "department": "Women",
+  "category": "Hoodie",
+  "topDeal": false,
+  "bestSeller": false,
+  "countInStock": 17,
+  "image": [
+    "https://m.media-amazon.com/images/I/911ONIBE9ML._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/81fnxsICfbL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81qdovfFnVL._AC_SX569_.jpg"
+  ],
+  "colors": [
+    {
+      "name": "Big Game Pink",
+      "color": "#e38eb8"
+    },
+    {
+      "name": "Big Game Glacier",
+      "color": "#16d0dd"
+    }
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "slug": "0026"
+},
+{
+"shipping": 5.99,
+"video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+"name": "Legendary Whitetails Women's Country High Fleece",
+"discount": 0,
+"numReviews": 571,
+"rating": 4.6,
+"isFeature": true,
+"brand": "Legendary",
+"price": 31.78,
+"description": "GREAT STYLE: The ombre motif provides an aesthetic appeal, while the raw edge seams add interest,SOFT & COMFORTABLE: Made from cotton terry, modal, and spandex, this shirt is soft to the touch,RELAXED FIT: This long sleeve shirt includes the right amount of room in all the right places, with an extended tail and side vent, it can be worn tucked in or untucked.EASY TO MAINTAIN: This women's pullover is machine washable so you can maintain this product easily from the comfort of your home",
+"department": "Women",
+"category": "Shirt",
+"topDeal": false,
+"bestSeller": false,
+"countInStock": 17,
+"image": [
+  "https://m.media-amazon.com/images/I/810w9qUAzCL._AC_SX569_.jpg",
+  "https://m.media-amazon.com/images/I/71xyVQR7YeL._AC_SX522_.jpg",
+  "https://m.media-amazon.com/images/I/71Ju2mAwxjL._AC_SX569_.jpg"
+],
+"colors": [
+  {
+    "name": "Ivy Camo",
+    "color": "#474b3a"
+  },
+  {
+    "name": "Rusty Maroon Ombre",
+    "color": "#f4c4b6"
+  },
+  {
+    "name": "Navy Ombre",
+    "color": "#93d5e3"
+  }
+],
+"sizes": [
+  "S",
+  "M",
+  "L",
+  "XL"
+],
+"slug": "0027"
+},
+{
+  "shipping": 0,
+  "video": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84422cdf-ee1c-46bc-b0d8-8a0263cf18d1.mp4",
+  "name": "Team Realtree Camo Cap Deer Logo Realtree Hat Camo Ball Cap Tan Camo Cap",
+  "discount": 0,
+  "numReviews": 571,
+  "rating": 4.6,
+  "isFeature": true,
+  "brand": "Legendary",
+  "price": 15.58,
+  "description": "Team Realtree Camo Cap with Deer Logo Men's Realtree Hat Tan. 6 panel cap, unstructured, mid profile. Heavy wash for worn look. Moisture wicking sweatband. Plus We will send you a free gift with your order!!!!",
+  "department": "Men",
+  "category": "Accesories",
+  "topDeal": false,
+  "bestSeller": false,
+  "countInStock": 17,
+  "image": [
+    "https://m.media-amazon.com/images/I/91MbMBw0ySL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91CkPIYKLEL._AC_SY550_.jpg",
+    "https://m.media-amazon.com/images/I/91EQq6QAi8L._AC_SX679_.jpg"
+  ],
+  "colors": [
+    
+  ],
+  "sizes": [
+
+  ],
+  "slug": "0028"
+  }
+]
